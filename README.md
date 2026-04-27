@@ -11,4 +11,4 @@
 
 
 ```
-[Theme configuration file](./theme/bnw.json) | [Zed extension file](./extensions.toml)
+[`Theme configuration file`](./theme/bnw.json) | [`Zed extension file`](./extensions.toml)
