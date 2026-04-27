@@ -1,0 +1,7 @@
+id = "bnw-theme"
+version = "0.0.1"
+name = "BnW"
+description = "Dark Monochromatic Theme"
+authors = ["fewled <fewled@proton.me>"]
+repository = "https://github.com/fewled/bnw"
+schema_version = 1
